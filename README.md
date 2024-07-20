@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor front-end<br>- São Paulo<br>- Em busca do meu primeiro trabalho como desenvolvedor front-end</p>
+<p align="left">- Engenheiro de Software<br>- Desenvolvedor front-end<br>- São Paulo<br>- Em busca do meu primeiro trabalho como desenvolvedor front-end</p>
 
 ###
 
@@ -26,6 +26,12 @@
     <img align="center" alt="Nate-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
 
+##
 
+<div> 
+  <a href="https://www.instagram.com/ferreir4sz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nathancosta2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
           
