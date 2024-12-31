@@ -13,8 +13,8 @@
 <h1 align="left">Techs</h1>
 
 <div align="left">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nath4nferreira&include_all_commits=true&theme=midnight-purple"/>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath4nferreira&layout=compact&theme=midnight-purple"/>
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=nath4nferreira&include_all_commits=true&theme=radical"/>
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath4nferreira&layout=compact&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
