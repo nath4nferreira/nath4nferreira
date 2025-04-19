@@ -22,8 +22,13 @@
     <img align="center" alt="Nate-CSS" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img align="center" alt="Nate-Js" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Nate-Ts" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Nate-Jv" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
     <img align="center" alt="Nate-React" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img align="center" alt="Nate-Tailwind" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img align="center" alt="Nate-Mongo" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img align="center" alt="Nate-Inteliji" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+    <img align="center" alt="Nate-Vscode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+        
 </div>
 
 ##
